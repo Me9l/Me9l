@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?color=auto&text=Hello&fontSize=30&fontColor=01A2F3&fontAlign=20&fontAlignY=10&desc=KU%20github&descAlign=26&descAlignY=36&rotate=-8&type=slice&reversal=true)
 <div align=center>
 💬 About</br></br>
-🙏 안녕하세요.</br>
-공부중인 풋내기 개발자 입니다.🐲</br>
+안녕하세요. 🙏</br>
+공부중인 풋내기 개발자 입니다. 🐲</br>
 </div>
 <div align=center></br></br>
 📚 Tech Stack</br></br>
