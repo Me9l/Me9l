@@ -6,8 +6,8 @@
 </div>
 <div align=center></br></br>
 📚 Tech Stack</br></br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=Springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=AdobePhotoshop&logoColor=white"/>
