@@ -15,9 +15,9 @@
 </div>
 <div align=center>
 </br></br>
-
+<!--
 ![Me9L's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me9L&show_icons=true&theme=dark)
-
+-->
 </div>
 
 <!--
